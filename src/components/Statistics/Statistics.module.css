@@ -9,7 +9,8 @@
   margin-top: 30px;
   margin-bottom: 30px;
   border-radius: 5px;
-  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1), 0px 10px 20px rgba(0, 0, 0, 0.05),
+    0px 20px 20px rgba(0, 0, 0, 0.05), 0px 30px 20px rgba(0, 0, 0, 0.05);
   background-color: rgb(255, 255, 255);
 }
 
@@ -28,7 +29,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  border: 2px solid rgb(211, 8, 59);
+  border: 2px solid #00cccc;
   border-radius: 5px;
   padding: 5px;
 }
